@@ -2,6 +2,8 @@
 
 This project aims to enhance the language learning experience at a Thai Language Learning School by integrating AI-driven learning applications. The primary goal is to leverage open-source and free resources to provide scalable, cost-effective, and privacy-conscious language learning tools that can eventually expand to assist underprivileged areas worldwide.
 
+
+
 ## Functional Requirements
 
 Infrastructure Ownership: The client prefers to own and manage their infrastructure to maintain privacy and reduce long-term costs.
