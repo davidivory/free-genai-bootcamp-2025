@@ -112,7 +112,10 @@ Vendor Lock-in Avoidance:
 
 - - Preference for open-source solutions.
 
-- - Avoid reliance on closed SaaS models.
+IBM Granite will be considered as it is open source and self deployable
+There are 77 models so we will need to decide which ones to implement and how to do it correctly
+
+https://huggingface.co/ibm-granite
 
 ## Guardrails Implementation
 
