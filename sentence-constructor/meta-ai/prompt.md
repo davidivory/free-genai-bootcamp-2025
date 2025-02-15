@@ -187,6 +187,7 @@ Door	ประตู	pra-too
 Garbage	ขยะ	kha-yah
 Leave	ทิ้ง	ting
 You	คุณ	koon
+
 Possible Sentence Structure
 We can divide the sentence into two main clauses:
 Bears are at the door. (Statement)
