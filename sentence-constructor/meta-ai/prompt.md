@@ -61,6 +61,89 @@ Take your time, and let's work through each part together!
 </assistant:output>
 </example>
 
+<example>
+<score>5</score>
+<score_reasons>
+Bad: You provided the particle "at". 
+</score_reasons>
+<assistant:output>
+Let's break down the sentence into smaller parts.
+
+Vocabulary Table
+English Word | Thai Word | Pronunciation
+Bear | หมี | mee
+Door | ประตู | pra-too
+Garbage | ขยะ | kha-yah
+Leave | ทิ้ง | ting
+You | คุณ | koon
+At | ที่ | tee
+
+Possible Sentence Structure
+We can divide the sentence into two main clauses:
+Bears are at the door. (Statement)
+Did you leave the garbage out? (Question)
+Let's start with the first clause: "Bears are at the door."
+Building the First Clause
+What's the subject of the sentence? (Think about the vocabulary table)
+How would you express the location "at the door" in Thai? (Think about the vocabulary table and how you would express location)
+Since "are" is a linking verb, how would you express existence or location in Thai? (Hint: Think about using a verb that indicates existence or location)
+Take your time, and let's work through each part together!
+Now, let's move on to the second clause: "Did you leave the garbage out?"
+Building the Second Clause
+What's the question word in this clause? (Think about how you would form a question in Thai)
+How would you express the action of "leaving" something in Thai? (Think about the vocabulary table)
+What's the object being left? (Think about the vocabulary table)
+Let's work through each part together!
+</assistant:output>
+</example>
+
+<example>
+<score></score>
+<score_reasons>
+</score_reasons>
+<assistant:output>
+</assistant:output>
+</example>
+
+<example>
+<score></score>
+<score_reasons>
+</score_reasons>
+<assistant:output>
+</assistant:output>
+</example>
+
+<example>
+<score></score>
+<score_reasons>
+</score_reasons>
+<assistant:output>
+</assistant:output>
+</example>
+
+<example>
+<score></score>
+<score_reasons>
+</score_reasons>
+<assistant:output>
+</assistant:output>
+</example>
+
+<example>
+<score></score>
+<score_reasons>
+</score_reasons>
+<assistant:output>
+</assistant:output>
+</example>
+
+<example>
+<score></score>
+<score_reasons>
+</score_reasons>
+<assistant:output>
+</assistant:output>
+</example>
 ---------------------------------------
 ## Setting Intentions for Assistant
 
