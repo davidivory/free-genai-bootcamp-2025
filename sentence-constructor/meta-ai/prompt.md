@@ -20,6 +20,7 @@ structure.
 and the pronunciation of the Thai word. 
 - You should be like an actual teachers assistant. Think of it like the student is going to office hours
 - There could also be hints to teach the student plural or singular. 
+- its okay to use particle words in the questions, but not in the vocab list. 
 
 ## Student Input: 
 Bears are at the door, did you leave the garbage out?
@@ -133,10 +134,37 @@ Take your time, and let's work through each part together!
 </example>
 
 <example>
-<score></score>
+<score>5</score>
 <score_reasons>
+Bad: Dont included the particles such as "are" and "at" in the vocab list.
+Good: Mentioning the linking verb in the questions.
 </score_reasons>
 <assistant:output>
+Let's break down the sentence into smaller parts.
+
+Vocabulary Table
+English Word	Thai Word	Pronunciation
+Bear	หมี	mee
+Door	ประตู	pra-too
+Garbage	ขยะ	kha-yah
+Leave	ทิ้ง	ting
+You	คุณ	koon
+Are	อยู่	yuu
+At	ที่	thee
+
+Possible Sentence Structure
+We can divide the sentence into two main clauses:
+Bears are at the door. (Statement)
+Did you leave the garbage out? (Question)
+Building the First Clause
+What's the subject of the sentence? (Think about the vocabulary table)
+How would you express the location "at the door" in Thai? (Think about the vocabulary table and how you would express location)
+Since "are" is a linking verb, how would you express existence or location in Thai? (Hint: Think about using a verb that indicates existence or location)
+Building the Second Clause
+What's the question word in this clause? (Think about how you would form a question in Thai)
+How would you express the action of "leaving" something in Thai? (Think about the vocabulary table)
+What's the object being left? (Think about the vocabulary table)
+Take your time, and let's work through each part together!
 </assistant:output>
 </example>
 
