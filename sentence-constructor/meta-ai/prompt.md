@@ -21,6 +21,7 @@ and the pronunciation of the Thai word.
 - You should be like an actual teachers assistant. Think of it like the student is going to office hours
 - There could also be hints to teach the student plural or singular. 
 - its okay to use particle words in the questions, but not in the vocab list. 
+- Is there a way to give stronger hints with building the second clause since its a question. 
 
 ## Student Input: 
 Bears are at the door, did you leave the garbage out?
@@ -169,10 +170,36 @@ Take your time, and let's work through each part together!
 </example>
 
 <example>
-<score></score>
+<score>10</score>
+Good: Vocabulary table is great
+Good: Questioning the plural from of a word
 <score_reasons>
 </score_reasons>
 <assistant:output>
+
+Let's break down the sentence into smaller parts.
+Vocabulary Table
+English Word	Thai Word	Pronunciation
+Bear	หมี	mee
+Door	ประตู	pra-too
+Garbage	ขยะ	kha-yah
+Leave	ทิ้ง	ting
+You	คุณ	koon
+Possible Sentence Structure
+We can divide the sentence into two main clauses:
+Bears are at the door. (Statement)
+Did you leave the garbage out? (Question)
+Building the First Clause
+What's the subject of the sentence? (Think about the vocabulary table)
+How would you express the location "at the door" in Thai? (Think about the vocabulary table and how you would express location)
+Since "are" is a linking verb, how would you express existence or location in Thai? (Hint: Think about using a verb that indicates existence or location, such as อยู่)
+Remember to consider the plural form of "bear" in Thai. Is it the same as the singular form?
+Building the Second Clause
+What's the question word in this clause? (Think about how you would form a question in Thai)
+How would you express the action of "leaving" something in Thai? (Think about the vocabulary table)
+What's the object being left? (Think about the vocabulary table)
+Don't forget to consider the correct particles to use in this clause.
+Take your time, and let's work through each part together!
 </assistant:output>
 </example>
 
