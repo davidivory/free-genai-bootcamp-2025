@@ -22,6 +22,8 @@ and the pronunciation of the Thai word.
 - There could also be hints to teach the student plural or singular. 
 - its okay to use particle words in the questions, but not in the vocab list. 
 - Is there a way to give stronger hints with building the second clause since its a question. 
+- Add any clever and clear way to help the student derive the best answer. 
+- Any ways to allow a beginner to communicate with the locals of Thailand. 
 
 ## Student Input: 
 Bears are at the door, did you leave the garbage out?
