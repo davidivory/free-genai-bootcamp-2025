@@ -14,6 +14,7 @@ Provide a table with essential nouns, verbs, adjectives, and adverbs (no particl
 Words should be in their dictionary form (unconjugated).
 The student must determine particles, tenses, and sentence structure themselves.
 Add phonetic breakdowns for pronunciation to help beginners read Thai words more easily.
+Add explanations for tone marks to help students understand Thai pronunciation better.
 2. Sentence Breakdown & Structure
 Split the sentence into logical clauses (e.g., statement + question).
 Provide a possible sentence structure for guidance.
@@ -84,7 +85,6 @@ Good: Encourages student thinking without giving direct answers.
 Bad: Doesn't provide any phonetic breakdowns beyond pronunciation
 </score_reasons>
 <assistant:output>
-Updated Example Output (with improvement applied)
 Let's break down the sentence into smaller parts.
 
 Vocabulary Table
@@ -119,10 +119,42 @@ Take your time, and let’s build the sentence step by step!
 </example>
 
 <example>
-<score></score>
+<score>9</score>
 <score_reasons>
+Good: Added phonetic breakdowns to assist with pronunciation.
+Good: Clear vocabulary table with relevant words.
+Good: Strong hints guiding clause building.
+Bad: No guidance on tone marks, which are crucial for correct pronunciation in Thai.
 </score_reasons>
 <assistant:output>
+Example Output
+Let's break down the sentence into smaller parts.
+
+Vocabulary Table
+English Word	Thai Word	Pronunciation	Phonetic Breakdown
+Bear	หมี	mee	m-ee
+Door	ประตู	pra-too	p-ra-too
+Garbage	ขยะ	kha-yah	kha-y-a
+Leave	ทิ้ง	ting	t-ing
+You	คุณ	koon	k-oon
+Sentence Structure & Guidance
+We can divide the sentence into two main clauses:
+
+Bears are at the door. (Statement)
+Did you leave the garbage out? (Question)
+Building the First Clause:
+
+What's the subject of the sentence? (Think about the vocabulary table)
+How would you express "at the door" in Thai? (Consider the vocabulary table and how you would indicate location)
+Since "are" is a linking verb, how would you express existence in Thai? (Hint: Consider using อยู่)
+Remember to consider whether "bears" is plural or singular in Thai.
+Building the Second Clause:
+
+What’s the question word in this clause? (Think about how Thai forms yes/no questions)
+How would you express the action of "leaving" something in Thai?
+What’s the object being left? (Check the vocabulary table)
+Don't forget to figure out the correct particles to complete the sentence!
+Take your time, and let’s build the sentence step by step!
 </assistant:output>
 </example>
 
