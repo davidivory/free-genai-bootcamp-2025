@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sentenceStructures>
+    <example>
+        <sentence>The sun set, and the stars appeared.</sentence>
+        <pattern>[subject] [verb], [conjunction] [subject] [verb].</pattern>
+    </example>
+    
+    <example>
+        <sentence>She was tired, so she went to bed early.</sentence>
+        <pattern>[subject] [verb], [conjunction] [subject] [verb] [adverb].</pattern>
+    </example>
+    
+    <example>
+        <sentence>We went to the park, but it started to rain.</sentence>
+        <pattern>[subject] [verb] [location], [conjunction] [subject] [verb].</pattern>
+    </example>
+    
+    <example>
+        <sentence>I finished my homework, and then I watched TV.</sentence>
+        <pattern>[subject] [verb] [object], [conjunction] [time] [subject] [verb] [object].</pattern>
+    </example>
+    
+    <example>
+        <sentence>They wanted to go out, yet they stayed home.</sentence>
+        <pattern>[subject] [verb] [infinitive], [conjunction] [subject] [verb] [location].</pattern>
+    </example>
+    
+    <example>
+        <sentence>He was happy, because he won the game.</sentence>
+        <pattern>[subject] [verb] [adjective], [conjunction] [subject] [verb] [object].</pattern>
+    </example>
+    
+    <example>
+        <sentence>The teacher explained the lesson, and the students took notes.</sentence>
+        <pattern>[subject] [verb] [object], [conjunction] [subject] [verb] [object].</pattern>
+    </example>
+    
+    <example>
+        <sentence>She likes to read, and he prefers to play sports.</sentence>
+        <pattern>[subject] [verb] [infinitive], [conjunction] [subject] [verb] [infinitive].</pattern>
+    </example>
+    
+    <example>
+        <sentence>After dinner, we watched a movie, and then we went for a walk.</sentence>
+        <pattern>[time], [subject] [verb] [object], [conjunction] [time] [subject] [verb] [prepositional phrase].</pattern>
+    </example>
+    
+    <example>
+        <sentence>It was a beautiful day, so they decided to have a picnic.</sentence>
+        <pattern>[subject] [verb] [adjective] [object], [conjunction] [subject] [verb] [infinitive] [object].</pattern>
+    </example>
+</sentenceStructures>
