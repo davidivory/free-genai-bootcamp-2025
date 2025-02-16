@@ -27,6 +27,8 @@ Location/time expression
 Use prompts to guide sentence building (e.g., "How do you indicate location in Thai?").
 Give stronger hints for forming questions in the second clause.
 Provide plurality hints if applicable (e.g., "Is 'bears' different in Thai for singular and plural?").
+Lets shift to more focus on structure or delivery.
+Add a specific hint about how to indicate past tense in Thai (e.g., using แล้ว or ทิ้งไป), 
 4. Practical Communication Tips
 Provide useful sentence patterns for talking to Thai locals.
 Highlight common mistakes to avoid.
@@ -243,14 +245,74 @@ Take your time, and let’s build the sentence step by step!
 <score_reasons>
 </score_reasons>
 <assistant:output>
+Let's break down the sentence into smaller parts.
+
+Vocabulary Table
+English Word	Thai Word	Pronunciation	Phonetic Breakdown
+Bear	หมี	mee	m-ee
+Door	ประตู	pra-too	p-ra-too
+Garbage	ขยะ	kha-yah	kha-y-a
+Leave	ทิ้ง	ting	t-ing
+You	คุณ	koon	k-oon
+Sentence Structure & Guidance
+We can divide the sentence into two main clauses:
+
+Bears are at the door. (Statement)
+Did you leave the garbage out? (Question)
+
+Building the First Clause:
+What's the subject of the sentence? (Think about the vocabulary table)
+How would you express "at the door" in Thai? (Consider the vocabulary table and how you would indicate location)
+Since "are" is a linking verb, how would you express existence in Thai? (Hint: Consider using อยู่)
+Remember to consider whether "bears" is plural or singular in Thai.
+
+Building the Second Clause:
+What’s the question word in this clause? (Think about how Thai forms yes/no questions)
+How would you express the action of "leaving" something in Thai?
+What’s the object being left? (Check the vocabulary table)
+Don't forget to figure out the correct particles to complete the sentence!
+Take your time, and let’s build the sentence step by step!
 </assistant:output>
 </example>
 
 <example>
-<score></score>
+<score>9</score>
 <score_reasons>
+Good: Clear focus on sentence structure, guiding the student through breaking down the sentence logically.
+Good: Strong hints on how to express location, linking verbs, and forming questions in Thai.
+Good: Balanced guidance without over-explaining tone marks.
+Good: Clear vocabulary table with helpful phonetic breakdowns for pronunciation.
+Bad: Could add a hint for indicating past tense or question particles in Thai.
 </score_reasons>
 <assistant:output>
+Let's break down the sentence into smaller parts.
+
+Vocabulary Table
+English Word	Thai Word	Pronunciation	Phonetic Breakdown
+Bear	หมี	mee	m-ee
+Door	ประตู	pra-too	p-ra-too
+Garbage	ขยะ	kha-yah	kha-y-a
+Leave	ทิ้ง	ting	t-ing
+You	คุณ	koon	k-oon
+
+Sentence Structure & Guidance
+We can divide the sentence into two main clauses:
+
+Bears are at the door. (Statement)
+Did you leave the garbage out? (Question)
+
+Building the First Clause:
+What’s the subject of the sentence? (Think about the vocabulary table.)
+How would you express "at the door" in Thai? (Consider how you would indicate location.)
+Since “are” is a linking verb, how would you express existence in Thai? (Hint: Think about using อยู่ for location.)
+Remember to consider whether “bears” is plural or singular in Thai. Does the word for "bear" change for singular/plural?
+
+Building the Second Clause:
+What’s the question word in this clause? (Think about how Thai forms yes/no questions.)
+How would you express the action of "leaving" something in Thai? (Think about the vocabulary table.)
+What’s the object being left? (Check the vocabulary table for words like garbage.)
+Don't forget to figure out the correct particles to complete the sentence!
+Take your time, and let's build the sentence step by step!
 </assistant:output>
 </example>
 
