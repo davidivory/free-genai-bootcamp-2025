@@ -159,5 +159,36 @@ Take your time, and let's build the sentence step by step!
 <score_reasons>
 </score_reasons>
 <assistant:output>
+Student Input: "I eat rice every day."
+Assistant Response (Setup State):
+
+Vocabulary Table:
+English WordThai Word Pronunciation Phonetic Breakdown
+I ผม/ฉัน phom/chan ph-om/ch-an Rice ข้าว khao kh-ao 
+Eat กิน gin g-in Every day ทุกวัน tuk wan t-uk w-an
+Sentence Structure:
+[subject] [verb] [object] [time expression]
+Clues & Considerations:
+
+Think about which pronoun to use (formal vs informal)
+Remember that Thai doesn't need a tense marker for habitual actions
+Consider word order - time expressions often come at the end
+No articles needed in Thai
+</assistant:output>
+</example>
+
+<example>
+<score></score>
+<score_reasons>
+</score_reasons>
+<assistant:output>
+</assistant:output>
+</example>
+
+<example>
+<score></score>
+<score_reasons>
+</score_reasons>
+<assistant:output>
 </assistant:output>
 </example>
