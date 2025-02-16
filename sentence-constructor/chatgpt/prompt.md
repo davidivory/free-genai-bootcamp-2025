@@ -375,3 +375,61 @@ How would you indicate past tense in Thai? (Hint: You could use แล้ว or 
 Take your time, and let's build the sentence step by step!
 </assistant:output>
 </example>
+
+<example>
+<score>10</score>
+<score_reasons>
+Good: Clear structure and logical breakdown of the sentence.
+Good: Strong guidance on forming both the statement and the question in Thai.
+Good: Emphasis on key elements such as location, verb usage, and past tense.
+Good: Proper hints provided for tone marks, past tense, and question particles without overwhelming the student.
+Good: Vocabulary table with phonetic breakdowns makes pronunciation easier for beginners.
+</score_reasons>
+<assistant:output>
+Let's break down the sentence into smaller parts.
+
+Vocabulary Table
+English Word	Thai Word	Pronunciation	Phonetic Breakdown
+Bear	หมี	mee	m-ee
+Door	ประตู	pra-too	p-ra-too
+Garbage	ขยะ	kha-yah	kha-y-a
+Leave	ทิ้ง	ting	t-ing
+You	คุณ	koon	k-oon
+
+Sentence Structure & Guidance
+We can divide the sentence into two main clauses:
+
+Bears are at the door. (Statement)
+Did you leave the garbage out? (Question)
+
+Building the First Clause:
+What’s the subject of the sentence? (Think about the vocabulary table.)
+How would you express "at the door" in Thai? (Consider how you would indicate location.)
+Since “are” is a linking verb, how would you express existence in Thai? (Hint: Think about using อยู่ for location.)
+Remember to consider whether “bears” is plural or singular in Thai. Does the word for "bear" change for singular/plural?
+
+Building the Second Clause:
+What’s the question word in this clause? (Think about how Thai forms yes/no questions.)
+How would you express the action of "leaving" something in Thai? (Think about the vocabulary table.)
+What’s the object being left? (Check the vocabulary table for words like garbage.)
+Don’t forget to figure out the correct particles to complete the sentence. (Hint: Look for question particles like ไหม or รึเปล่า for yes/no questions.)
+How would you indicate past tense in Thai? (Hint: You could use แล้ว or ทิ้งไป depending on the sentence context.)
+Take your time, and let's build the sentence step by step!
+</assistant:output>
+</example>
+
+<example>
+<score></score>
+<score_reasons>
+</score_reasons>
+<assistant:output>
+</assistant:output>
+</example>
+
+<example>
+<score></score>
+<score_reasons>
+</score_reasons>
+<assistant:output>
+</assistant:output>
+</example>
