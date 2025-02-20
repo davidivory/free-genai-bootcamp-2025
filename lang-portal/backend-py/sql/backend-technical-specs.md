@@ -1,12 +1,20 @@
 # Backend Server Technical Specs
 
+## Business Requirements
+We are building a learning portal that acts as a launchpad for study activities but also browse our volcabulary library. 
+- have an inventory of words in the target language
+- have a group of words to thematic categories (e.g. animals, colors, foods, places, etc.)
+- We want to store study session eg. words right and wrong
+
+## API Endpoints
+
 ## Business Goal:
 
 Business Goal: 
 A language learning school wants to build a prototype of learning portal which will act as three things:
-Inventory of possible vocabulary that can be learned
-Act as a  Learning record store (LRS), providing correct and wrong score on practice vocabulary
-A unified launchpad to launch different learning apps
+- Inventory of possible vocabulary that can be learned
+- Act as a  Learning record store (LRS), providing correct and wrong score on practice vocabulary
+- A unified launchpad to launch different learning apps
 
 ## Technical Requirements
 - The backend will be built using python
@@ -45,7 +53,7 @@ Tables:
     - correct (boolean) – Whether the answer was correct
 
 - words_review_items – Tracks word review sessions
-    - id (integer, primary key)
+    - study_sessions_id (integer, primary key)
     - word_id (integer, foreign key → words.id)
     - reviewed_at (timestamp)
     - correct (boolean)
